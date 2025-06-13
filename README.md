@@ -1,4 +1,4 @@
-# Visionary: Advanced Image Recognition for Celebrity Identification
+# Advanced Image Recognition for Celebrity Identification
 
 This project is a user-friendly web application that uses deep learning model such as Convolution Neural Network (CNN) to recognize images of famous celebrities. Users can upload an image, and the model will predict which celebrity it is among a predefined set of classes.
 
